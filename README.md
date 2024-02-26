@@ -14,6 +14,8 @@ Soy un apasionado desarrollador/programador (ajusta según tu área específica,
 
 ### [Deep learning](deep_learning/)
 
+[imagen red](deep_learning/imagen.webp)
+
 - **Descripción:** Una breve descripción del proyecto y su objetivo.
 - **Tecnologías Utilizadas:** Enumera las tecnologías principales utilizadas en el proyecto.
 - **Enlace:** Proporciona un enlace al proyecto en línea o al repositorio de código fuente.
