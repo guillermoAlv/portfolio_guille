@@ -6,11 +6,11 @@ Mi [Linkedin](https://www.linkedin.com/in/galvarezm/).
 
 ## Acerca de mí
 
-Soy [Tu Nombre], un apasionado desarrollador/programador (ajusta según tu área específica, como diseñador web, desarrollador de software, etc.) con una pasión por la creación de soluciones innovadoras y funcionales. Mi enfoque principal es [tu enfoque principal, por ejemplo, desarrollo web front-end, desarrollo de aplicaciones móviles, etc.]. Con una sólida formación en [tu formación académica] y [número] años de experiencia en la industria, me esfuerzo por ofrecer productos de alta calidad que satisfagan las necesidades y expectativas de mis clientes.
+Soy un apasionado desarrollador/programador (ajusta según tu área específica, como diseñador web, desarrollador de software, etc.) con una pasión por la creación de soluciones innovadoras y funcionales. Mi enfoque principal es [tu enfoque principal, por ejemplo, desarrollo web front-end, desarrollo de aplicaciones móviles, etc.]. Con una sólida formación en [tu formación académica] y [número] años de experiencia en la industria, me esfuerzo por ofrecer productos de alta calidad que satisfagan las necesidades y expectativas de mis clientes.
 
 ## Proyectos Destacados
 
-### [Nombre del Proyecto 1]
+### [Deep learning](deep_learning/)
 
 - **Descripción:** Una breve descripción del proyecto y su objetivo.
 - **Tecnologías Utilizadas:** Enumera las tecnologías principales utilizadas en el proyecto.
