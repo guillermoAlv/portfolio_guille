@@ -10,6 +10,13 @@ Mi [Linkedin](https://www.linkedin.com/in/galvarezm/).
 
 Soy un apasionado desarrollador/programador (ajusta según tu área específica, como diseñador web, desarrollador de software, etc.) con una pasión por la creación de soluciones innovadoras y funcionales. Mi enfoque principal es [tu enfoque principal, por ejemplo, desarrollo web front-end, desarrollo de aplicaciones móviles, etc.]. Con una sólida formación en [tu formación académica] y [número] años de experiencia en la industria, me esfuerzo por ofrecer productos de alta calidad que satisfagan las necesidades y expectativas de mis clientes.
 
+En nNuclio aprendí a printeear hola mundo
+
+'''
+print("Hello World")
+'''
+
+
 ## Proyectos Destacados
 
 ### [Deep learning](deep_learning/)
